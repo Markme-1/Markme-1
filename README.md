@@ -3,7 +3,7 @@
 </div>
  
 <p align='center'> 
-<a href="linkedin.com/in/somu-sen-79a6381aa"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/somu-sen-79a6381aa"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/markme_1"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://bit.ly/2L9cqqo"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/devto.png?raw=true"></a>&nbsp;&nbsp;
 
