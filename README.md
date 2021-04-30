@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 # i'm @doBASH
-## cybersecurity enthisiast trying to exploit you
+## cybersecurity enthusiast trying to exploit you
+
 <!--
 **doBASH/doBASH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on How to develop my mind ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
